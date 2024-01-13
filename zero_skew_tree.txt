@@ -1,0 +1,23 @@
+sink_2  -->   sink_13        :Length of Edge: 0
+sink_4  -->   sink_19        :Length of Edge: 0
+sink_6  -->   sink_20        :Length of Edge: 0
+sink_7  -->   sink_21        :Length of Edge: 0
+sink_11  -->   sink_23        :Length of Edge: 0
+sink_13  -->   sink_3        :Length of Edge: 2
+sink_13  -->   sink_14        :Length of Edge: 0
+sink_14  -->   sink_1        :Length of Edge: 5
+sink_14  -->   sink_15        :Length of Edge: 0
+sink_15  -->   sink_19        :Length of Edge: 4
+sink_15  -->   sink_16        :Length of Edge: 0
+sink_16  -->   sink_20        :Length of Edge: 5
+sink_16  -->   sink_17        :Length of Edge: 0
+sink_17  -->   sink_22        :Length of Edge: 10
+sink_17  -->   sink_18        :Length of Edge: 0
+sink_18  -->   sink_23        :Length of Edge: 10
+sink_19  -->   sink_5        :Length of Edge: 2
+sink_20  -->   sink_9        :Length of Edge: 3
+sink_21  -->   sink_8        :Length of Edge: 2
+sink_21  -->   sink_22        :Length of Edge: 0
+sink_22  -->   sink_10        :Length of Edge: 6
+sink_23  -->   sink_12        :Length of Edge: 6
+Length of rooted spanning tree: 55   Sum of sink delays: 33   Length of ZST: 88
